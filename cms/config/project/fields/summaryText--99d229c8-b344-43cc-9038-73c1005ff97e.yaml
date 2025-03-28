@@ -1,0 +1,19 @@
+columnSuffix: crnpzfwe
+contentColumnType: text
+fieldGroup: f3bdd72a-d7a6-4aa3-afb7-b5ebefd47fcd # Global
+handle: summaryText
+instructions: null
+name: 'Summary Text'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

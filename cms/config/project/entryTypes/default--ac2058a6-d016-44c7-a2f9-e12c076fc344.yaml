@@ -1,0 +1,71 @@
+fieldLayouts:
+  f2d96026-cb3f-47b3-b209-dad3b6ef12d9:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: ecf0ea1a-f24f-4342-8cd6-43bc71833f6f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 99d229c8-b344-43cc-9038-73c1005ff97e # Summary Text
+            instructions: 'A short one or two sentence summary of the article.'
+            label: 'Article Summary'
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: afb9bb06-a219-4c56-a5c6-217e5e02d64f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 89a8800b-930c-44ae-80de-811720f1fb48 # Rich Text
+            instructions: null
+            label: 'Article Copy'
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: fe650a85-f70d-4ef0-be51-b26f3ef4cdfa
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 3b7ada49-1a23-4d01-8913-786305a791a1
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: f91bef8a-6c52-45cd-899d-41d1d803cba1 # Market News
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

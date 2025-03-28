@@ -1,4 +1,4 @@
-dateModified: 1731634809
+dateModified: 1743157854
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -18,13 +18,20 @@ meta:
     5da841b1-ca0d-46ff-8bb1-04d6c889ac54: English # English
     7a591e66-18df-490d-92b5-3fd3a3986f09: default # default
     8f804a45-ad1d-4a71-b0b4-6df2040dc205: Nuts # Nuts
+    9b62f147-2e77-4d05-9d3e-7f737c9ad6e3: Homepage # Homepage
+    9c0a758f-f9d3-4fea-bbd7-b685ff4d1b86: Homepage # Homepage
     071aeb2b-e8eb-4bcf-825c-dd016745f107: Flavor # Flavor
+    89a8800b-930c-44ae-80de-811720f1fb48: 'Rich Text' # Rich Text
+    99d229c8-b344-43cc-9038-73c1005ff97e: 'Summary Text' # Summary Text
     4828c563-32cf-4021-afeb-1d5e38f31daf: 'Accent Color' # Accent Color
     6005c2f9-5d85-4442-b712-22e070096ac8: 'Public Schema' # Public Schema
     6359fe58-db81-4ee6-94eb-e9f4e3c61da6: Notes # Notes
+    ac2058a6-d016-44c7-a2f9-e12c076fc344: Default # Default
     c2e2b69d-127d-4afe-8032-0209247e70de: default # default
     dd87a305-fb8e-4bc0-965b-8afadc876934: Syrup # Syrup
     e7500fc4-6a5e-4656-8947-27c47c0c9dd8: Whip # Whip
+    f3bdd72a-d7a6-4aa3-afb7-b5ebefd47fcd: Global # Global
+    f91bef8a-6c52-45cd-899d-41d1d803cba1: 'Market News' # Market News
     f652db8c-edc2-4a66-8241-2fb0787110ee: 'Primary Color' # Primary Color
     f89601e9-4ba9-4a48-9e99-350aa9914912: default # default
 plugins:
